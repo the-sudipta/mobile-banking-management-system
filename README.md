@@ -166,27 +166,8 @@ An online banking system backend through email like bKash
    ### :key: Environment Variables
    To run this project, you will need to add the following environment variables to your database connection file
    
-   ## Environment Variables
-   
    ### Database Variables
-   
-   [//]: # ()
-   [//]: # (| Variable Name | Description                               | Value                                                  |)
-   
-   [//]: # (| ------------- | ----------------------------------------- | ------------------------------------------------------------- |)
-   
-   [//]: # (| `DATABASE_URL`| Connection string for the PostgreSQL database | `postgresql://postgres:qWKzRVBvImHaoGJZhtZwfmoZzjZkwDKf@roundhouse.proxy.rlwy.net:21821/railway` |)
-   
-   [//]: # (| `PGDATABASE`  | Name of the PostgreSQL database           | `railway`                                                     |)
-   
-   [//]: # (| `PGHOST`      | Hostname of the PostgreSQL server         | `roundhouse.proxy.rlwy.net`                                   |)
-   
-   [//]: # (| `PGPASSWORD`  | Password for the PostgreSQL database user | `qWKzRVBvImHaoGJZhtZwfmoZzjZkwDKf`                            |)
-   
-   [//]: # (| `PGPORT`      | Port on which PostgreSQL is running       | `21821`                                                       |)
-   
-   [//]: # (| `PGUSER`      | Username for the PostgreSQL database      | `postgres`                                                    |)
-   
+    
    ```yaml
    DATABASE_URL: "postgresql://postgres:qWKzRVBvImHaoGJZhtZwfmoZzjZkwDKf@roundhouse.proxy.rlwy.net:21821/railway"
    PGDATABASE: "railway"
