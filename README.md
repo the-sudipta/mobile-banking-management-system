@@ -198,24 +198,26 @@ PGUSER: "postgres"
 
 ### :bangbang: Prerequisites
 
-<ul>
-  <li><a href="https://nodejs.org/en/download/">Node.js</a></li>
-  <li><a href="https://nodejs.org/en/download/">npm (Node Package Manager)</a>
-    <ul>
-      <li><code>npm install</code></li>
-    </ul>
-  </li>
-  <li><a href="https://docs.nestjs.com/cli/overview">NestJS CLI</a>
-    <ul>
-      <li><code>npm install -g @nestjs/cli</code></li>
-    </ul>
-  </li>
-  <li><a href="https://www.postgresql.org/download/">PostgreSQL Database</a></li>
-  <li><a href="https://www.typescriptlang.org/download">TypeScript</a></li>
-  <li><a href="https://eslint.org/docs/user-guide/getting-started">ESLint</a></li>
-  <li><a href="https://prettier.io/docs/en/install.html">Prettier</a></li>
-  <li><a href="https://nodemailer.com/about/">Mail Server (Optional)</a></li>
-</ul>
+<div align="left">
+   <ul>
+     <li><a href="https://nodejs.org/en/download/">Node.js</a></li>
+     <li><a href="https://nodejs.org/en/download/">npm (Node Package Manager)</a>
+       <ul>
+         <li><code>npm install</code></li>
+       </ul>
+     </li>
+     <li><a href="https://docs.nestjs.com/cli/overview">NestJS CLI</a>
+       <ul>
+         <li><code>npm install -g @nestjs/cli</code></li>
+       </ul>
+     </li>
+     <li><a href="https://www.postgresql.org/download/">PostgreSQL Database</a></li>
+     <li><a href="https://www.typescriptlang.org/download">TypeScript</a></li>
+     <li><a href="https://eslint.org/docs/user-guide/getting-started">ESLint</a></li>
+     <li><a href="https://prettier.io/docs/en/install.html">Prettier</a></li>
+     <li><a href="https://nodemailer.com/about/">Mail Server (Optional)</a></li>
+   </ul>
+</div>
 
 ### :running: Run Locally
 ```bash
