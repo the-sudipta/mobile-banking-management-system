@@ -41,75 +41,77 @@ requirements, ensuring a seamless and secure user experience in the modern digit
 
 ### :hammer: Tech Stack / Built With
 
-<details> 
-  <summary>Backend Framework</summary> 
-  <ul>
-    <li><a href="https://nestjs.com/">NestJS</a></li>
-  </ul> 
-</details>
-<details> 
-  <summary>Database</summary> 
-  <ul>
-    <li><a href="https://typeorm.io/">TypeORM</a></li>
-    <li><a href="https://node-postgres.com/">pg (PostgreSQL)</a></li>
-  </ul> 
-</details>
-<details> 
-  <summary>Authentication & Security</summary> 
-  <ul>
-    <li><a href="https://www.npmjs.com/package/bcrypt">bcrypt</a></li>
-    <li><a href="https://docs.nestjs.com/security/authentication">JWT (JSON Web Token) - @nestjs/jwt</a></li>
-  </ul> 
-</details>
-<details> 
-  <summary>Validation & Transformation</summary> 
-  <ul>
-    <li><a href="https://github.com/typestack/class-validator">class-validator</a></li>
-    <li><a href="https://github.com/typestack/class-transformer">class-transformer</a></li>
-  </ul> 
-</details>
-<details> 
-  <summary>Testing</summary> 
-  <ul>
-    <li><a href="https://jestjs.io/">Jest</a></li>
-    <li><a href="https://github.com/visionmedia/supertest">Supertest</a></li>
-    <li><a href="https://kulshekhar.github.io/ts-jest/">ts-jest</a></li>
-    <li><a href="https://docs.nestjs.com/fundamentals/testing">NestJS Testing - @nestjs/testing</a></li>
-  </ul> 
-</details>
-<details> 
-  <summary>Email & Session Management</summary> 
-  <ul>
-    <li><a href="https://nodemailer.com/about/">Nodemailer</a></li>
-    <li><a href="https://www.npmjs.com/package/express-session">express-session</a></li>
-    <li><a href="https://nestjs-modules.github.io/mailer/docs/">NestJS Mailer Module - @nestjs-modules/mailer</a></li>
-  </ul> 
-</details>
-<details> 
-  <summary>Utility Libraries</summary> 
-  <ul>
-    <li><a href="https://www.npmjs.com/package/cors">CORS</a></li>
-    <li><a href="https://www.npmjs.com/package/reflect-metadata">reflect-metadata</a></li>
-  </ul> 
-</details>
-<details> 
-  <summary>Development Tools</summary> 
-  <ul>
-    <li><a href="https://prettier.io/">Prettier</a></li>
-    <li><a href="https://eslint.org/">ESLint</a></li>
-    <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
-    <li><a href="https://www.npmjs.com/package/ts-node">ts-node</a></li>
-    <li><a href="https://github.com/TypeStrong/ts-loader">ts-loader</a></li>
-    <li><a href="https://www.npmjs.com/package/tsconfig-paths">tsconfig-paths</a></li>
-  </ul> 
-</details>
-<details> 
-  <summary>Miscellaneous</summary> 
-  <ul>
-    <li><a href="https://rxjs.dev/">RxJS</a></li>
-    <li><a href="https://www.npmjs.com/package/source-map-support">source-map-support</a></li>
-  </ul> 
-</details>
+<div align="left">
+   <details> 
+     <summary>Backend Framework</summary> 
+     <ul>
+       <li><a href="https://nestjs.com/">NestJS</a></li>
+     </ul> 
+   </details>
+   <details> 
+     <summary>Database</summary> 
+     <ul>
+       <li><a href="https://typeorm.io/">TypeORM</a></li>
+       <li><a href="https://node-postgres.com/">pg (PostgreSQL)</a></li>
+     </ul> 
+   </details>
+   <details> 
+     <summary>Authentication & Security</summary> 
+     <ul>
+       <li><a href="https://www.npmjs.com/package/bcrypt">bcrypt</a></li>
+       <li><a href="https://docs.nestjs.com/security/authentication">JWT (JSON Web Token) - @nestjs/jwt</a></li>
+     </ul> 
+   </details>
+   <details> 
+     <summary>Validation & Transformation</summary> 
+     <ul>
+       <li><a href="https://github.com/typestack/class-validator">class-validator</a></li>
+       <li><a href="https://github.com/typestack/class-transformer">class-transformer</a></li>
+     </ul> 
+   </details>
+   <details> 
+     <summary>Testing</summary> 
+     <ul>
+       <li><a href="https://jestjs.io/">Jest</a></li>
+       <li><a href="https://github.com/visionmedia/supertest">Supertest</a></li>
+       <li><a href="https://kulshekhar.github.io/ts-jest/">ts-jest</a></li>
+       <li><a href="https://docs.nestjs.com/fundamentals/testing">NestJS Testing - @nestjs/testing</a></li>
+     </ul> 
+   </details>
+   <details> 
+     <summary>Email & Session Management</summary> 
+     <ul>
+       <li><a href="https://nodemailer.com/about/">Nodemailer</a></li>
+       <li><a href="https://www.npmjs.com/package/express-session">express-session</a></li>
+       <li><a href="https://nestjs-modules.github.io/mailer/docs/">NestJS Mailer Module - @nestjs-modules/mailer</a></li>
+     </ul> 
+   </details>
+   <details> 
+     <summary>Utility Libraries</summary> 
+     <ul>
+       <li><a href="https://www.npmjs.com/package/cors">CORS</a></li>
+       <li><a href="https://www.npmjs.com/package/reflect-metadata">reflect-metadata</a></li>
+     </ul> 
+   </details>
+   <details> 
+     <summary>Development Tools</summary> 
+     <ul>
+       <li><a href="https://prettier.io/">Prettier</a></li>
+       <li><a href="https://eslint.org/">ESLint</a></li>
+       <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
+       <li><a href="https://www.npmjs.com/package/ts-node">ts-node</a></li>
+       <li><a href="https://github.com/TypeStrong/ts-loader">ts-loader</a></li>
+       <li><a href="https://www.npmjs.com/package/tsconfig-paths">tsconfig-paths</a></li>
+     </ul> 
+   </details>
+   <details> 
+     <summary>Miscellaneous</summary> 
+     <ul>
+       <li><a href="https://rxjs.dev/">RxJS</a></li>
+       <li><a href="https://www.npmjs.com/package/source-map-support">source-map-support</a></li>
+     </ul> 
+   </details>
+</div>
 
 ### :dart: Features
 
