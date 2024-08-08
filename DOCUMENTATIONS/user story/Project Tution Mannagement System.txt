@@ -1,0 +1,33 @@
+Project Title:
+Tuition Management System
+
+Common Features for All User Category:
+Login/Sign in
+Registration/Signup
+Forget Password
+Change Password
+Profile (Update + View)
+Logout 
+
+Features for Student 2 (Teacher):
+Course Management
+Grading and Feedback
+Attendance  Tracking
+Communication Tools
+Analytics and Reporting
+Assessment Authoring
+
+Mid Term:
+Page Layout(include/require)
+Php Validation for all features
+Database connection
+Seassion / Cookies (protect url)
+Static Web Interface (all page)
+
+Final Term: So far
+Prepare Statement for all features
+Cookies(such as remeber me of login page)
+CSS, PHP validation(if any left)
+11 Dec 23 - JS Validation
+18 Dec 23 - AJAX
+
