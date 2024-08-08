@@ -10,13 +10,14 @@
 
 
 <p align="center">
-  <a href="#toolbox-getting-started&#41">Getting Started</a> 
-  <a href="#📍-API-Endpoints">API Endpoints</a>
-  <a href="#wave-contributing&#41">Contribute</a>
-  <a href="#warning-license&#41">License</a>
-  <a href="#handshake-contact&#41">Contact</a>
-  <a href="#gem-acknowledgement&#41">Acknowledgement</a>
+  <a href="#toolbox-getting-started">Getting Started</a> 
+  <a href="#pushpin-api-endpoints">API Endpoints</a>
+  <a href="#wave-contributing">Contribute</a>
+  <a href="#warning-license">License</a>
+  <a href="#handshake-contact">Contact</a>
+  <a href="#gem-acknowledgement">Acknowledgement</a>
 </p>
+
 
 <p align="center">
 An online banking system backend through email like bKash
@@ -233,7 +234,7 @@ https://github.com/the-sudipta/mobile-banking-management-system.git
 git https://github.com/the-sudipta/mobile-banking-management-system.git
 ```
 
-## 📍 API Endpoints
+## :pushpin: API Endpoints
 <h3 id="get-auth-detail">GET /authenticate</h3>
 
 **RESPONSE Example in Documentations**
