@@ -27,7 +27,8 @@ An online banking system backend through email like bKash
 </p>
 
 <div align="left">
-    ## :star2: About The Project
+
+## :star2: About The Project
 
    ![Product Video Gif](https://github.com/the-sudipta/Tuition-Management-System/blob/main/DOCUMENTATIONS/images/Tuition%20management%20System%20trial.gif?raw=true?raw=true)
    
