@@ -30,7 +30,7 @@ An online banking system backend through email like bKash
 
 ## :star2: About The Project
 
-   ![Product Video Gif](https://github.com/the-sudipta/Tuition-Management-System/blob/main/DOCUMENTATIONS/images/Tuition%20management%20System%20trial.gif?raw=true?raw=true)
+   ![Product Video Gif](https://github.com/the-sudipta/mobile-banking-management-system/blob/main/DOCUMENTATIONS/images/Mobile%20Banking%20Management%20System%20Backend%20Demo.gif?raw=true)
    
    The Mobile Banking Management System project is designed to streamline banking operations through mobile
    devices, enabling users to conduct tasks like fund transfers, bill payments, and account inquiries from
