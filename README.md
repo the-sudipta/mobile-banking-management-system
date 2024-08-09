@@ -25,7 +25,7 @@ An online banking system backend through email like bKash
 <p align="center">
   <a href="https://github.com/the-sudipta/mobile-banking-management-system/raw/main/DOCUMENTATIONS/Project_Manual_mobile-banking-management-system.pdf" download>📱 Explore the docs »</a>
 </p>
-
+</div>
 <div align="left">
 
 ## :star2: About The Project
@@ -161,12 +161,13 @@ An online banking system backend through email like bKash
    </div>
 
 
-
-### :key: Environment Variables
-To run this project, you will need to add the following environment variables to your database connection file
-
-### Database Variables
-
+<div align="left">
+   
+   ### :key: Environment Variables
+   To run this project, you will need to add the following environment variables to your database connection file
+   
+   ### Database Variables
+    
    ```yaml
    DATABASE_URL: "postgresql://postgres:qWKzRVBvImHaoGJZhtZwfmoZzjZkwDKf@roundhouse.proxy.rlwy.net:21821/railway"
    PGDATABASE: "railway"
@@ -174,13 +175,13 @@ To run this project, you will need to add the following environment variables to
    PGPASSWORD: "qWKzRVBvImHaoGJZhtZwfmoZzjZkwDKf"
    PGPORT: 21821
    PGUSER: "postgres"
-
-```
-
-## :toolbox: Getting Started
-
-### :bangbang: Prerequisites
-
+   
+   ```
+   
+   ## :toolbox: Getting Started
+   
+   ### :bangbang: Prerequisites
+   
    <div align="left">
       <ul>
         <li><a href="https://nodejs.org/en/download/">Node.js</a></li>
@@ -201,8 +202,8 @@ To run this project, you will need to add the following environment variables to
         <li><a href="https://nodemailer.com/about/">Mail Server (Optional)</a></li>
       </ul>
    </div>
-
-### :running: Run Locally
+   
+   ### :running: Run Locally
    ```bash
    # development
    $ npm run start
@@ -213,75 +214,76 @@ To run this project, you will need to add the following environment variables to
    # production mode
    $ npm run start:prod
    ```
-
-#### Download the project
-
+   
+   #### Download the project
+   
    ```bash
    https://github.com/the-sudipta/mobile-banking-management-system.git
    ```
-
-#### Clone the Repository
+   
+   #### Clone the Repository
    ```bash
    git https://github.com/the-sudipta/mobile-banking-management-system.git
    ```
-
-## :pushpin: API Endpoints
-<h3 id="get-auth-detail">GET /authenticate</h3>
-
-**RESPONSE Example in Documentations**
+   
+   ## :pushpin: API Endpoints
+   <h3 id="get-auth-detail">GET /authenticate</h3>
+   
+   **RESPONSE Example in Documentations**
    ```json
    {
-   "name": "Suchona Saha",
-   "age": 22,
-   "email": "dr.suchona.saha@gmail.com",
-   "password": "admin"
-}
+     "name": "Suchona Saha",
+     "age": 22,
+     "email": "dr.suchona.saha@gmail.com",
+     "password": "admin"
+   }
    ```
-
-<h3 id="post-auth-detail">POST /authenticate</h3>
-
-**REQUEST Example in Documentations**
+   
+   <h3 id="post-auth-detail">POST /authenticate</h3>
+   
+   **REQUEST Example in Documentations**
    ```json
    {
-   "email": "dr.suchona.saha@gmail.com",
-   "password": "admin"
-}
+     "email": "dr.suchona.saha@gmail.com",
+     "password": "admin"
+   }
    ```
-
-**RESPONSE Example in Documentations**
+   
+   **RESPONSE Example in Documentations**
    ```json
    {
-   "token": "OwoMRHsaQwyAgVoc3OXmL1JhMVUYXGGBbCTK0GBgiYitwQwjf0gVoBmkbuyy0pSi"
-}
+     "token": "OwoMRHsaQwyAgVoc3OXmL1JhMVUYXGGBbCTK0GBgiYitwQwjf0gVoBmkbuyy0pSi"
+   }
    ```
-
-
-## :wave: Contributing
-
+   
+   
+   ## :wave: Contributing
+   
    <a href="https://github.com/the-sudipta/mobile-banking-management-system/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
-
-Contributions are always welcome!
-
-### :sparkles: Authors
-- [@the-sudipta](https://www.github.com/the-sudipta)
-
-## :busts_in_silhouette: Used By
-
-This project is used by the following individuals:
-
-- Tripti Ahmed
-
-
-## :warning: License
-
-This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License - see the [LICENSE](LICENSE) file for details.
-
-## :handshake: Contact
-
-Sudipta Kumar Das - - engineer.sudipta.kumar.das@gmail.com
-
-Project Link: [https://github.com/the-sudipta/mobile-banking-management-system](https://github.com/the-sudipta/mobile-banking-management-system)
-
-## :gem: Acknowledgement
-- [PostgreSQL Database](https://www.postgresql.org/download/)
-- [Mail Server](https://nodemailer.com/about/)
+   
+   Contributions are always welcome!
+   
+   ### :sparkles: Authors
+   - [@the-sudipta](https://www.github.com/the-sudipta)
+   
+   ## :busts_in_silhouette: Used By
+   
+   This project is used by the following individuals:
+   
+   - Tripti Ahmed
+   
+   
+   ## :warning: License
+   
+   This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License - see the [LICENSE](LICENSE) file for details.
+   
+   ## :handshake: Contact
+   
+   Sudipta Kumar Das - - engineer.sudipta.kumar.das@gmail.com
+   
+   Project Link: [https://github.com/the-sudipta/mobile-banking-management-system](https://github.com/the-sudipta/mobile-banking-management-system)
+   
+   ## :gem: Acknowledgement
+   - [PostgreSQL Database](https://www.postgresql.org/download/)
+   - [Mail Server](https://nodemailer.com/about/)
+</div>
